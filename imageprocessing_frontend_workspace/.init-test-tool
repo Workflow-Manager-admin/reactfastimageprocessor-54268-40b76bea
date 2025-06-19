@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend"
+}
