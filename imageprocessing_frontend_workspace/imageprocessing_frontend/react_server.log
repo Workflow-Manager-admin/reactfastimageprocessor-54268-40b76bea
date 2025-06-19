@@ -23,3 +23,166 @@ modules by path ./.ve/ 15.1 KiB
     ./node_modules/css-loader/dist/cjs.js!./.ve/EditorOverlay.css 697 bytes [built] [code generated]
   ./.ve/EditorOverlay.jsx 1.58 KiB [built] [code generated]
 webpack 5.99.9 compiled successfully in 1662 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.4 MiB
+  asset bundle.js 1.4 MiB [emitted] (name: main)
+  asset main.dde57833b104cf51b305.hot-update.js 8.47 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.dde57833b104cf51b305.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.4 MiB = bundle.js 1.4 MiB main.dde57833b104cf51b305.hot-update.js 8.47 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+./src/App.js 4.73 KiB [built] [code generated]
+
+ERROR in ./src/App.js 3:0-51
+Module not found: Error: Can't resolve './components/ImageUpload' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 4:0-57
+Module not found: Error: Can't resolve './components/OptionsSidebar' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 5:0-53
+Module not found: Error: Can't resolve './components/ImagePreview' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 6:0-55
+Module not found: Error: Can't resolve './components/ResultDisplay' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+4 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 4 errors in 121 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.41 MiB
+  asset bundle.js 1.4 MiB [emitted] (name: main)
+  asset main.7538ad5f421b47ec6b80.hot-update.js 11.8 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.7538ad5f421b47ec6b80.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.41 MiB = bundle.js 1.4 MiB main.7538ad5f421b47ec6b80.hot-update.js 11.8 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 6.71 KiB
+  ./src/App.js 4.73 KiB [code generated]
+  ./src/components/ImageUpload.js 1.98 KiB [built] [code generated]
+
+ERROR in ./src/App.js 4:0-57
+Module not found: Error: Can't resolve './components/OptionsSidebar' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 5:0-53
+Module not found: Error: Can't resolve './components/ImagePreview' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 6:0-55
+Module not found: Error: Can't resolve './components/ResultDisplay' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+ @ ./src/index.js 5:0-24 11:32-35
+
+3 errors have detailed information that is not shown.
+Use 'stats.errorDetails: true' resp. '--stats-error-details' to show it.
+
+webpack 5.99.9 compiled with 3 errors in 57 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.4 MiB [emitted] (name: main)
+  asset main.75644cf6fa1d66ecae88.hot-update.js 15 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.75644cf6fa1d66ecae88.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.4 MiB main.75644cf6fa1d66ecae88.hot-update.js 15 KiB
+cached modules 1.26 MiB [cached] 42 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 9.21 KiB
+  ./src/App.js 4.73 KiB [code generated]
+  ./src/components/OptionsSidebar.js 4.48 KiB [built] [code generated]
+
+ERROR in ./src/App.js 5:0-53
+Module not found: Error: Can't resolve './components/ImagePreview' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+resolve './components/ImagePreview' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+  using description file: /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/package.json (relative path: ./src)
+    Field 'browser' doesn't contain a valid alias configuration
+    using description file: /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/package.json (relative path: ./src/components/ImagePreview)
+      no extension
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ImagePreview doesn't exist
+      .js
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ImagePreview.js doesn't exist
+      .jsx
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ImagePreview.jsx doesn't exist
+      as directory
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ImagePreview doesn't exist
+ @ ./src/index.js 5:0-24 11:32-35
+
+ERROR in ./src/App.js 6:0-55
+Module not found: Error: Can't resolve './components/ResultDisplay' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+resolve './components/ResultDisplay' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+  using description file: /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/package.json (relative path: ./src)
+    Field 'browser' doesn't contain a valid alias configuration
+    using description file: /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/package.json (relative path: ./src/components/ResultDisplay)
+      no extension
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ResultDisplay doesn't exist
+      .js
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ResultDisplay.js doesn't exist
+      .jsx
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ResultDisplay.jsx doesn't exist
+      as directory
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ResultDisplay doesn't exist
+ @ ./src/index.js 5:0-24 11:32-35
+
+webpack 5.99.9 compiled with 2 errors in 83 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.41 MiB [emitted] (name: main)
+  asset main.f39a648866df1f3d4dbe.hot-update.js 10.1 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.f39a648866df1f3d4dbe.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.41 MiB main.f39a648866df1f3d4dbe.hot-update.js 10.1 KiB
+cached modules 1.27 MiB [cached] 43 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 5.38 KiB
+  ./src/App.js 4.73 KiB [code generated]
+  ./src/components/ImagePreview.js 672 bytes [built] [code generated]
+
+ERROR in ./src/App.js 6:0-55
+Module not found: Error: Can't resolve './components/ResultDisplay' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+resolve './components/ResultDisplay' in '/home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src'
+  using description file: /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/package.json (relative path: ./src)
+    Field 'browser' doesn't contain a valid alias configuration
+    using description file: /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/package.json (relative path: ./src/components/ResultDisplay)
+      no extension
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ResultDisplay doesn't exist
+      .js
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ResultDisplay.js doesn't exist
+      .jsx
+        Field 'browser' doesn't contain a valid alias configuration
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ResultDisplay.jsx doesn't exist
+      as directory
+        /home/kavia/workspace/code-generation/reactfastimageprocessor-54268-40b76bea/imageprocessing_frontend_workspace/imageprocessing_frontend/src/components/ResultDisplay doesn't exist
+ @ ./src/index.js 5:0-24 11:32-35
+
+webpack 5.99.9 compiled with 1 error in 46 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.41 MiB [emitted] (name: main)
+  asset main.35f4393b5b74172df19e.hot-update.js 10.4 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.35f4393b5b74172df19e.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.41 MiB main.35f4393b5b74172df19e.hot-update.js 10.4 KiB
+cached modules 1.27 MiB [cached] 44 modules
+runtime modules 27.5 KiB 14 modules
+javascript modules 5.75 KiB
+  ./src/App.js 4.73 KiB [code generated]
+  ./src/components/ResultDisplay.js 1.02 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 36 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.41 MiB [emitted] (name: main)
+  asset main.398d25d8478b97afefa7.hot-update.js 6.51 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.398d25d8478b97afefa7.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.41 MiB main.398d25d8478b97afefa7.hot-update.js 6.51 KiB
+cached modules 1.27 MiB [cached] 45 modules
+runtime modules 27.5 KiB 14 modules
+./node_modules/css-loader/dist/cjs.js!./src/App.css 3.95 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 38 ms
